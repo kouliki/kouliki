@@ -1,3 +1,4 @@
+![logo](https://github.com/kouliki/kouliki/blob/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Kouliki Mahato</h1>
 <h3 align="center">A passionate Flutter developer and AIML enthusiast from India</h3>
 
@@ -7,7 +8,7 @@
 
 - 🔭 I’m currently working on **Flutter Projects**
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **koulikimahato10@gmail.com**
 
