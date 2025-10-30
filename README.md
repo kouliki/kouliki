@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kouliki" alt="kouliki" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter Projects**
+- 🔭 I’m currently working on **Tableau Projects**
 
-- 🌱 I’m currently learning **Flutter, Firebase**
+- 🌱 I’m currently learning **Tableau, Power Bi**
 
 - 📫 How to reach me **koulikimahato10@gmail.com**
 
